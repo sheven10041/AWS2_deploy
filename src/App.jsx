@@ -13,7 +13,7 @@ const getHeaderConfig = (pathname) => {
   }
   return {
     title: "🦁 숙멋 프론트의 TMI 게시판 🦁",
-    description: "사자들의 코멘트를 자유롭게 남겨주세요 "",
+    description: "사자들의 코멘트를 자유롭게 남겨주세요 ",
     button: true,
   };
 };
